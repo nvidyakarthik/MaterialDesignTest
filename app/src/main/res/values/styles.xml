@@ -9,7 +9,7 @@
     </style>
     <style name="mystyle">
         <item name="android:textColor">#ff6600</item>
-        <item name="android:fontFamily">cursive</item>
+        <item name="android:fontFamily">sans-serif</item>
         <item name="android:textSize">32sp</item>
 
 
